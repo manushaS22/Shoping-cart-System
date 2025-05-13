@@ -1,0 +1,2 @@
+Product {ProductId = A0004, ProductName = CleaningRobot, NumberOfAvailableItems = 1, Price= 222.0, Brand= Sony, WarrantyPeriod= 3 years, Category = Electronics}
+Product {ProductId = A0001, ProductName = Tv, NumberOfAvailableItems = 4, Price= 222.0, Brand= LG, WarrantyPeriod= 12 weeks, Category = Electronics}
